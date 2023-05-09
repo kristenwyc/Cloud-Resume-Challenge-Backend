@@ -32,3 +32,22 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+
+
+
+# logs
+*.log
+
+# Directories
+.terraform/
+
+# Ignored Terraform files
+*gitignore*.tf
+
+
+# Ignored vscode files
+.vscode/
+
+variables.tf
+*.tfvars
