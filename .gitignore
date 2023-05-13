@@ -49,7 +49,6 @@ terraform.rc
 # Ignored vscode files
 .vscode/
 
-variables.tf
-*.tfvars
+
 
 .terraform.lock.hcl
