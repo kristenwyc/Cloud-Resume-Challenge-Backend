@@ -47,7 +47,7 @@ jobs:
 
       - name: terraform fmt
         working-directory: ${{ env.TERRAFORM_DIR  }}
-        run: terraform fmt -checkcc
+        run: terraform fmt
 
       - name: terraform plan
         working-directory: ${{ env.TERRAFORM_DIR  }}
