@@ -11,3 +11,5 @@ API Gateway
 Route 53
 Terraform
 Github Actions
+
+Blog post: https://kristenwyc.com/cloudresumechallenge.html
